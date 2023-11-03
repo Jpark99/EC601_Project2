@@ -22,9 +22,12 @@ Minimum Viable Product (MVP):
 
 How To Use:
 
-To use this, simply download the code, and get your Google Maps Api Keys and paste it into the specified section.
+To use this, download the python code.
+pip install googlemaps
+pip install folium
 Run the code in terminal.
-
+It will ask you a series of questions inlcuding your Google Maps API key.
+For the number of evenly distributed question, put no higher than 5.
 
 ![Screenshot (8)](https://github.com/Jpark99/EC601_Project2/assets/10427379/e4d6f9db-a4ba-4e4e-ae07-97a765171760)
 
