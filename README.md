@@ -1,9 +1,26 @@
 # EC601_Project2
 EC601 Project2
 
-Say you are scraping data based on locations. Almost every single time, you'd need coordinates or geocode of the locations.
-This porject is aimed for this specific use case.
-The user can input two coordinates and it will create a box, then return a list of popular locations in that region, in coordinates. 
-The user can reduce the time it takes for them to scrape coordinates.
+Mission Statement:
+
+My mission is to empower data scientists and individuals seeking location-based data by providing a tool that enables them to select a geographic region and obtain a list of locations within that area. We aim to streamline the data scraping process, making it accessible to everyone, and enhancing the ability to extract valuable insights from location-specific datasets.
+
+
+Product User Stories:
+
+1. As a data scientist, I want to easily select a geographic region on a map, so I can obtain a list of locations within that area for my data analysis projects.
+
+2. As a market researcher, I need a tool that can provide me with location data to analyze customer demographics and preferences, helping me make data-driven business decisions.
+
+Minimum Viable Product (MVP):
+
+1. Region Selection: Users can select a geographic region.
+
+2. Location Retrieval: Users can request a list of locations within the selected region.
+
+3. Export Data: Users can export the list of locations in a common data format (e.g., CSV or JSON) for use in their data scraping or analysis tools.
+
+How To Use:
 
 To use this, simply download the code, and get your Google Maps Api Keys and paste it into the specified section.
+Run the code in terminal.
