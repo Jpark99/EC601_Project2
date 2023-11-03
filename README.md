@@ -18,9 +18,13 @@ Minimum Viable Product (MVP):
 
 2. Location Retrieval: Users can request a list of locations within the selected region.
 
-3. Export Data: Users can export the list of locations in a common data format (e.g., CSV or JSON) for use in their data scraping or analysis tools.
+3. Export Data: Users can export the list of locations for use in their data scraping or analysis tools.
 
 How To Use:
 
 To use this, simply download the code, and get your Google Maps Api Keys and paste it into the specified section.
 Run the code in terminal.
+
+![Screenshot (8)](https://github.com/Jpark99/EC601_Project2/assets/10427379/03e40010-368c-4230-83b3-dae1d929c233)
+
+
