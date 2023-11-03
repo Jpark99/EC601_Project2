@@ -25,6 +25,6 @@ How To Use:
 To use this, simply download the code, and get your Google Maps Api Keys and paste it into the specified section.
 Run the code in terminal.
 
-![Screenshot (8)](https://github.com/Jpark99/EC601_Project2/assets/10427379/03e40010-368c-4230-83b3-dae1d929c233)
 
+![Screenshot (8)](https://github.com/Jpark99/EC601_Project2/assets/10427379/e4d6f9db-a4ba-4e4e-ae07-97a765171760)
 
