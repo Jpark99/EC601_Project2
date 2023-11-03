@@ -28,6 +28,6 @@ To use this, download the python code.
 3. Run the code in terminal.
 4. It will ask you a series of questions inlcuding your Google Maps API key.
 5. For the number of evenly distributed question, put no higher than 5.
+![Screenshot (8)](https://github.com/Jpark99/EC601_Project2/assets/10427379/ea41ea8d-ba80-464d-b11a-4000554dc9a7)
 
-![Screenshot (8)](https://github.com/Jpark99/EC601_Project2/assets/10427379/e4d6f9db-a4ba-4e4e-ae07-97a765171760)
 
